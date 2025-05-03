@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/nefino-mcp-nefino-badge.png)](https://mseep.ai/app/nefino-mcp-nefino)
+
 # Nefino MCP Server
 
 The Nefino MCP Server is a [Model Context Protocol (MCP)](https://modelcontextprotocol.io) server that provides Large Language Models (LLMs) with access to news and information about renewable energy projects, planning, and announcements in Germany. It integrates with the Nefino API to provide structured access to this data.
